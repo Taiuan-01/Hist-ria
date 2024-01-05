@@ -1,0 +1,47 @@
+body {
+    padding: 25px;
+    text-align: center;
+    background-color: rgb(171, 48, 182);
+    color: #F7886D;
+   
+  }
+.dark-mode {
+    background-color: rgb(105, 27, 112);
+    color: white;
+  }
+
+header {
+    background-color: #c71953;
+    padding: 10px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+}
+
+ul li {
+    margin-right: 20px;
+}
+
+a{
+    color: #F7886D;
+}
+
+button {
+    cursor: pointer;
+}
+
+#hist{
+    color: rgb(49, 14, 129);
+}
+h2{
+    text-indent: 60px;
+    text-align: justify;
+}
